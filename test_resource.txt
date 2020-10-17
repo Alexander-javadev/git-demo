@@ -1,5 +1,7 @@
 header
 
+new String asd!
+
 hello world!
 
 update text. END.
